@@ -1,0 +1,22 @@
+.product-info{
+    border:5px solid blueviolet;
+   
+   
+   
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+  background-color: rgba(128, 0, 128, 0); 
+    box-shadow: 5px 5px 8px 7px #888888; 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    
+}
+.product-info img{
+     width: 300px; 
+}
+.button{
+    background-color: violet;
+    color:black;
+    padding:10px;
+}
